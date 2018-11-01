@@ -47,6 +47,10 @@
 
 }
 
+.arrow-left, .arrow-right {
+    cursor: pointer;
+}
+
 .arrow-left{
     position: absolute;
     bottom: 300px;
