@@ -94,11 +94,6 @@ $(document).ready(function(){
     }
 
 
-
-
-
-
-
     // styled hover + active in css
 
     $('#all-btn').click(function(){
