@@ -91,7 +91,6 @@ $(document).ready(function(){
 
         $('#filter-gallery').css({"min-height":galleryHeight + "px"})
 
-
     }
 
 
